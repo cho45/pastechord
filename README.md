@@ -1,5 +1,7 @@
 # Paste Chord Plugin
 
+![Screenshot]( ./docs/screenshot.png )
+
 Paste Chord is a simple dialog-based plugin for MuseScore 4 that allows you to copy and paste chords efficiently.
 
 ## Features & Benefits
